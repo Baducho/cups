@@ -1,0 +1,13 @@
+#dialog{  border-width: 1px; border-radius: 4px; border-style: solid;  border-color: #777; padding: 0; min-width: 200px; max-width: 98%; word-wrap: break-word; margin: 3% auto 3% auto; overflow-y: hidden; /*padding: 0px 50px 10px 50px;*/ background-color: #fff; }
+#dialog-header{ display: block; text-align: center; }
+#dialog-content{  overflow-x: hidden; overflow-y: auto; margin: 0px 5px 10px 5px; }
+#dialog>.panel-heading{   }
+#dialog>.panel-heading .dialog-close{ float: right; opacity: .5; cursor: pointer; }
+
+#dialog
+{
+	-webkit-box-shadow: 3px 3px 4px 0px rgba(0,0,0,0.5);
+	-moz-box-shadow: 3px 3px 4px 0px rgba(0,0,0,0.5);
+	box-shadow: 3px 3px 4px 0px rgba(0,0,0,0.5);
+}
+

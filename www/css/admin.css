@@ -1,0 +1,8 @@
+.grey-panel {
+    border-color: #595959;
+}
+.grey-panel .grey-panel-heading {
+    color: #333;
+    background-color: #BBBBBB;
+    border-color: #595959;
+}

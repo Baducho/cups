@@ -1,0 +1,96 @@
+body{ padding-top: 52px;  }
+.row {
+	margin-right: 0px;
+	margin-left: 0px;
+}
+#login-panel {
+	margin: 40px auto;
+	width: 40%;
+	text-align:center;
+}
+h1 {
+	font-size: 2.1em;
+	color: #034488;
+    font-weight: normal;    
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+h4 {
+	font-size: 1.2em;
+	color: #034488;
+    font-weight: normal; 
+}
+#footer {
+	clear: both;
+}
+#footer h3{
+	text-align:center;
+	font-size: 0.9em;
+	color: #999;
+	
+}
+#mainRight {
+	float:right;
+	border-left: 1px solid #e7e7e7;
+	padding-top: 5px;
+}
+#mainLeft {
+	padding-top: 5px;
+}
+#mainContent {
+	padding-top: 5px;
+}
+#create-request-form {
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+.alert {
+	padding: 5px;
+	margin-bottom: 1px;	
+}
+.tab-pane {
+	padding: 10px 5px;
+}
+.source-block h5, h4{
+	text-align:center;
+}
+.pagination {
+	margin-top: 3px;
+	margin-bottom: 3px;
+	float: right;
+}
+.clear {
+	clear: both;
+}
+.nodata {
+	background-color: #CFC4D3;
+}
+.simple-table td{
+	padding: 2px 5px;
+}
+.simple-table .span {
+	color: #777;
+}
+.collapse h5 {
+	font-weight: bold;
+}
+.table .description-td {
+	padding: 0px 10px;
+	
+}
+.description {
+	margin: 5px 0px;
+}
+.left {
+	float: left;
+}
+.admin-user-block {
+	padding: 5px 10px;
+}
+.admin-user-block .btn {
+	margin-top: 3px;
+}
+.admin-user-block .radio {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}

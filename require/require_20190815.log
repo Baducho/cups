@@ -1,0 +1,829 @@
+15-08-2019 20:59:48:412 INFO require!
+15-08-2019 21:03:27:962 INFO require!
+15-08-2019 21:03:27:965 INFO require!
+15-08-2019 21:03:27:969 INFO require!
+15-08-2019 21:03:27:972 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Test\modules\main.lua
+15-08-2019 21:05:44:350 INFO require!
+15-08-2019 21:05:44:351 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Test\modules\main.lua
+15-08-2019 21:55:44:905 INFO require!
+15-08-2019 21:55:44:927 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Test\modules\main.lua
+15-08-2019 21:55:44:930 INFO \\baducho\Node.js Projects\ProtoCWF\Test\modules\main.lua(Invalid argument)
+15-08-2019 21:55:44:931 INFO \\baducho\Node.js Projects\ProtoCWF\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:01:00:086 INFO require!
+15-08-2019 22:01:00:089 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:01:00:092 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:01:05:156 INFO require!
+15-08-2019 22:01:05:164 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:01:05:167 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:01:05:169 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:01:05:172 INFO require!
+15-08-2019 22:01:05:176 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:01:05:179 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:01:05:181 INFO logging(Загружен из банка)
+15-08-2019 22:01:05:185 INFO require!
+15-08-2019 22:01:05:187 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:01:05:190 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:02:13:447 INFO require!
+15-08-2019 22:02:13:450 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:02:13:453 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:02:13:456 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:02:13:462 INFO require!
+15-08-2019 22:02:13:465 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:02:13:468 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:02:13:470 INFO logging(Загружен из банка)
+15-08-2019 22:02:13:474 INFO require!
+15-08-2019 22:02:13:475 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:02:13:478 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:22:55:410 INFO require!
+15-08-2019 22:22:55:413 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:22:55:417 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:22:55:419 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:22:55:423 INFO require!
+15-08-2019 22:22:55:425 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:22:55:428 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:22:55:431 INFO logging(Загружен из банка)
+15-08-2019 22:22:55:434 INFO require!
+15-08-2019 22:22:55:437 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:22:55:440 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:22:59:765 INFO require!
+15-08-2019 22:22:59:768 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:22:59:770 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:22:59:773 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:22:59:776 INFO require!
+15-08-2019 22:22:59:779 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:22:59:782 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:22:59:784 INFO logging(Загружен из банка)
+15-08-2019 22:22:59:786 INFO require!
+15-08-2019 22:22:59:788 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:22:59:791 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:23:02:823 INFO require!
+15-08-2019 22:23:02:827 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:23:02:832 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:23:02:834 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:23:02:838 INFO require!
+15-08-2019 22:23:02:841 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:23:02:844 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:23:02:846 INFO logging(Загружен из банка)
+15-08-2019 22:23:02:849 INFO require!
+15-08-2019 22:23:02:852 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:23:02:854 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:23:05:334 INFO require!
+15-08-2019 22:23:05:338 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:23:05:341 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:23:05:344 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:23:05:346 INFO require!
+15-08-2019 22:23:05:349 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:23:05:351 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:23:05:354 INFO logging(Загружен из банка)
+15-08-2019 22:23:05:356 INFO require!
+15-08-2019 22:23:05:359 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:23:05:362 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:23:09:125 INFO require!
+15-08-2019 22:23:09:128 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:23:09:132 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:23:09:134 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:23:09:138 INFO require!
+15-08-2019 22:23:09:140 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:23:09:143 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:23:09:146 INFO logging(Загружен из банка)
+15-08-2019 22:23:09:149 INFO require!
+15-08-2019 22:23:09:152 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:23:09:155 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:23:12:231 INFO require!
+15-08-2019 22:23:12:240 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:23:12:244 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:23:12:248 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:23:12:251 INFO require!
+15-08-2019 22:23:12:254 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:23:12:258 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:23:12:261 INFO logging(Загружен из банка)
+15-08-2019 22:23:12:265 INFO require!
+15-08-2019 22:23:12:271 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:23:12:275 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:23:15:819 INFO require!
+15-08-2019 22:23:15:829 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:23:15:833 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:23:15:835 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:23:15:838 INFO require!
+15-08-2019 22:23:15:840 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:23:15:843 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:23:15:845 INFO logging(Загружен из банка)
+15-08-2019 22:23:15:847 INFO require!
+15-08-2019 22:23:15:849 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:23:15:851 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:23:18:923 INFO require!
+15-08-2019 22:23:18:926 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:23:18:929 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:23:18:932 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:23:18:939 INFO require!
+15-08-2019 22:23:18:943 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:23:18:946 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:23:18:949 INFO logging(Загружен из банка)
+15-08-2019 22:23:18:952 INFO require!
+15-08-2019 22:23:18:956 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:23:18:959 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:24:16:731 INFO require!
+15-08-2019 22:24:16:734 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:24:16:740 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:24:16:743 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:24:16:747 INFO require!
+15-08-2019 22:24:16:749 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:24:16:752 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:24:16:754 INFO logging(Загружен из банка)
+15-08-2019 22:24:16:758 INFO require!
+15-08-2019 22:24:16:760 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:24:16:763 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:27:40:845 INFO require!
+15-08-2019 22:27:40:848 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:27:40:854 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:27:40:857 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:27:40:860 INFO require!
+15-08-2019 22:27:40:863 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:27:40:865 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:27:40:868 INFO logging(Загружен из банка)
+15-08-2019 22:27:40:872 INFO require!
+15-08-2019 22:27:40:874 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:27:40:877 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:28:15:312 INFO require!
+15-08-2019 22:28:15:317 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:28:15:319 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:28:15:321 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:28:15:324 INFO require!
+15-08-2019 22:28:15:327 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:28:15:330 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:28:15:332 INFO logging(Загружен из банка)
+15-08-2019 22:28:15:335 INFO require!
+15-08-2019 22:28:15:337 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:28:15:339 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:29:20:076 INFO require!
+15-08-2019 22:29:20:079 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:29:20:082 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:29:20:084 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:29:20:087 INFO require!
+15-08-2019 22:29:20:089 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:29:20:091 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:29:20:093 INFO logging(Загружен из банка)
+15-08-2019 22:29:20:096 INFO require!
+15-08-2019 22:29:20:098 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:29:20:101 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:29:58:832 INFO require!
+15-08-2019 22:29:58:835 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:29:58:838 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:29:58:842 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:29:58:845 INFO require!
+15-08-2019 22:29:58:848 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:29:58:850 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:29:58:852 INFO logging(Загружен из банка)
+15-08-2019 22:29:58:855 INFO require!
+15-08-2019 22:29:58:858 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:29:58:861 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:31:02:360 INFO require!
+15-08-2019 22:31:02:362 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:31:02:366 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:32:52:725 INFO require!
+15-08-2019 22:32:52:728 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:32:52:731 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:34:20:990 INFO require!
+15-08-2019 22:34:20:993 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:34:20:996 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:34:20:998 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:34:21:001 INFO require!
+15-08-2019 22:34:21:003 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:34:21:006 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:34:21:009 INFO logging(Загружен из банка)
+15-08-2019 22:34:21:012 INFO require!
+15-08-2019 22:34:21:014 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:34:21:018 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:34:33:689 INFO require!
+15-08-2019 22:34:33:692 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:34:33:695 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:34:33:697 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:34:33:700 INFO require!
+15-08-2019 22:34:33:703 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:34:33:707 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:34:33:710 INFO logging(Загружен из банка)
+15-08-2019 22:34:33:713 INFO require!
+15-08-2019 22:34:33:715 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:34:33:717 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:36:19:141 INFO require!
+15-08-2019 22:36:19:147 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:36:19:150 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:36:19:152 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:36:19:155 INFO require!
+15-08-2019 22:36:19:158 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:36:19:161 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:36:19:164 INFO logging(Загружен из банка)
+15-08-2019 22:36:19:167 INFO require!
+15-08-2019 22:36:19:170 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:36:19:173 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:37:13:420 INFO require!
+15-08-2019 22:37:13:424 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:37:13:427 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:37:13:429 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:37:13:432 INFO require!
+15-08-2019 22:37:13:435 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:37:13:438 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:37:13:441 INFO logging(Загружен из банка)
+15-08-2019 22:37:13:443 INFO require!
+15-08-2019 22:37:13:446 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:37:13:448 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:37:17:835 INFO require!
+15-08-2019 22:37:17:838 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:37:17:840 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:37:17:843 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:37:17:846 INFO require!
+15-08-2019 22:37:17:849 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:37:17:851 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:37:17:854 INFO logging(Загружен из банка)
+15-08-2019 22:37:17:856 INFO require!
+15-08-2019 22:37:17:859 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:37:17:862 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:37:22:032 INFO require!
+15-08-2019 22:37:22:034 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:37:22:037 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:37:22:040 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:37:22:043 INFO require!
+15-08-2019 22:37:22:048 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:37:22:053 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:37:22:057 INFO logging(Загружен из банка)
+15-08-2019 22:37:22:060 INFO require!
+15-08-2019 22:37:22:063 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:37:22:066 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:38:09:492 INFO require!
+15-08-2019 22:38:09:495 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:38:09:499 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:38:09:519 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:38:09:521 INFO require!
+15-08-2019 22:38:09:523 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:38:09:526 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:38:09:528 INFO logging(Загружен из банка)
+15-08-2019 22:38:09:530 INFO require!
+15-08-2019 22:38:09:532 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:38:09:538 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:39:13:176 INFO require!
+15-08-2019 22:39:13:178 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:39:13:182 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:39:13:185 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:39:13:188 INFO require!
+15-08-2019 22:39:13:190 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:39:13:192 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:39:13:195 INFO logging(Загружен из банка)
+15-08-2019 22:39:13:198 INFO require!
+15-08-2019 22:39:13:200 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:39:13:203 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:45:52:273 INFO require!
+15-08-2019 22:45:52:278 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:45:52:282 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:45:52:284 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:45:52:287 INFO require!
+15-08-2019 22:45:52:290 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:45:52:293 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:45:52:296 INFO logging(Загружен из банка)
+15-08-2019 22:45:52:300 INFO require!
+15-08-2019 22:45:52:302 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:45:52:305 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:46:27:955 INFO require!
+15-08-2019 22:46:27:958 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:46:27:961 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:46:27:964 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:46:27:967 INFO require!
+15-08-2019 22:46:27:969 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:46:27:973 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:46:27:975 INFO logging(Загружен из банка)
+15-08-2019 22:46:27:979 INFO require!
+15-08-2019 22:46:27:984 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:46:27:989 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 22:50:04:270 INFO require!
+15-08-2019 22:50:04:309 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 22:50:04:313 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 22:50:04:316 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 22:50:04:319 INFO require!
+15-08-2019 22:50:04:324 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 22:50:04:328 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 22:50:04:332 INFO logging(Загружен из банка)
+15-08-2019 22:50:04:336 INFO require!
+15-08-2019 22:50:04:339 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 22:50:04:343 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:14:44:748 INFO require!
+15-08-2019 23:14:44:802 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:14:44:805 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:14:44:807 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:14:44:810 INFO require!
+15-08-2019 23:14:44:812 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:14:44:814 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:14:44:816 INFO logging(Загружен из банка)
+15-08-2019 23:14:44:819 INFO require!
+15-08-2019 23:14:44:821 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:14:44:824 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:14:48:149 INFO require!
+15-08-2019 23:14:48:152 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:14:48:155 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:14:48:158 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:14:48:161 INFO require!
+15-08-2019 23:14:48:164 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:14:48:167 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:14:48:170 INFO logging(Загружен из банка)
+15-08-2019 23:14:48:173 INFO require!
+15-08-2019 23:14:48:175 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:14:48:179 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:14:51:472 INFO require!
+15-08-2019 23:14:51:475 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:14:51:481 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:14:51:487 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:14:51:491 INFO require!
+15-08-2019 23:14:51:494 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:14:51:498 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:14:51:500 INFO logging(Загружен из банка)
+15-08-2019 23:14:51:504 INFO require!
+15-08-2019 23:14:51:507 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:14:51:510 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:14:54:483 INFO require!
+15-08-2019 23:14:54:487 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:14:54:490 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:14:54:493 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:14:54:496 INFO require!
+15-08-2019 23:14:54:500 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:14:54:503 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:14:54:506 INFO logging(Загружен из банка)
+15-08-2019 23:14:54:509 INFO require!
+15-08-2019 23:14:54:512 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:14:54:515 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:14:57:355 INFO require!
+15-08-2019 23:14:57:368 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:14:57:373 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:14:57:376 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:14:57:380 INFO require!
+15-08-2019 23:14:57:384 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:14:57:387 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:14:57:389 INFO logging(Загружен из банка)
+15-08-2019 23:14:57:392 INFO require!
+15-08-2019 23:14:57:395 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:14:57:397 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:16:20:449 INFO require!
+15-08-2019 23:16:20:452 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:16:20:457 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:16:20:459 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:16:20:462 INFO require!
+15-08-2019 23:16:20:464 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:16:20:468 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:16:20:470 INFO logging(Загружен из банка)
+15-08-2019 23:16:20:473 INFO require!
+15-08-2019 23:16:20:475 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:16:20:478 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:16:26:925 INFO require!
+15-08-2019 23:16:26:928 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:16:26:932 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:16:26:934 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:16:26:937 INFO require!
+15-08-2019 23:16:26:939 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:16:26:942 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:16:26:944 INFO logging(Загружен из банка)
+15-08-2019 23:16:26:947 INFO require!
+15-08-2019 23:16:26:949 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:16:26:952 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:16:30:232 INFO require!
+15-08-2019 23:16:30:235 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:16:30:239 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:16:30:242 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:16:30:245 INFO require!
+15-08-2019 23:16:30:249 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:16:30:252 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:16:30:255 INFO logging(Загружен из банка)
+15-08-2019 23:16:30:257 INFO require!
+15-08-2019 23:16:30:261 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:16:30:265 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:16:33:368 INFO require!
+15-08-2019 23:16:33:373 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:16:33:377 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:16:33:381 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:16:33:384 INFO require!
+15-08-2019 23:16:33:388 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:16:33:391 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:16:33:394 INFO logging(Загружен из банка)
+15-08-2019 23:16:33:398 INFO require!
+15-08-2019 23:16:33:401 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:16:33:405 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:17:12:605 INFO require!
+15-08-2019 23:17:12:610 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:17:12:614 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:17:12:618 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:17:12:622 INFO require!
+15-08-2019 23:17:12:625 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:17:12:628 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:17:12:630 INFO logging(Загружен из банка)
+15-08-2019 23:17:12:634 INFO require!
+15-08-2019 23:17:12:637 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:17:12:641 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:17:16:848 INFO require!
+15-08-2019 23:17:16:851 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:17:16:853 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:17:16:856 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:17:16:858 INFO require!
+15-08-2019 23:17:16:860 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:17:16:863 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:17:16:865 INFO logging(Загружен из банка)
+15-08-2019 23:17:16:868 INFO require!
+15-08-2019 23:17:16:870 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:17:16:873 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:17:20:093 INFO require!
+15-08-2019 23:17:20:101 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:17:20:106 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:17:20:110 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:17:20:113 INFO require!
+15-08-2019 23:17:20:117 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:17:20:120 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:17:20:123 INFO logging(Загружен из банка)
+15-08-2019 23:17:20:127 INFO require!
+15-08-2019 23:17:20:130 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:17:20:134 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:17:23:245 INFO require!
+15-08-2019 23:17:23:252 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:17:23:256 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:17:23:259 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:17:23:262 INFO require!
+15-08-2019 23:17:23:265 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:17:23:268 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:17:23:271 INFO logging(Загружен из банка)
+15-08-2019 23:17:23:275 INFO require!
+15-08-2019 23:17:23:279 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:17:23:282 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:17:26:037 INFO require!
+15-08-2019 23:17:26:040 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:17:26:046 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:17:26:049 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:17:26:052 INFO require!
+15-08-2019 23:17:26:055 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:17:26:060 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:17:26:063 INFO logging(Загружен из банка)
+15-08-2019 23:17:26:067 INFO require!
+15-08-2019 23:17:26:070 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:17:26:072 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:17:29:440 INFO require!
+15-08-2019 23:17:29:444 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:17:29:448 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:17:29:451 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:17:29:454 INFO require!
+15-08-2019 23:17:29:458 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:17:29:461 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:17:29:463 INFO logging(Загружен из банка)
+15-08-2019 23:17:29:465 INFO require!
+15-08-2019 23:17:29:468 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:17:29:471 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:20:50:023 INFO require!
+15-08-2019 23:20:50:026 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:20:50:029 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:20:50:031 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:20:50:034 INFO require!
+15-08-2019 23:20:50:036 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:20:50:039 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:20:50:042 INFO logging(Загружен из банка)
+15-08-2019 23:20:50:045 INFO require!
+15-08-2019 23:20:50:047 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:20:50:051 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:21:08:806 INFO require!
+15-08-2019 23:21:08:809 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:21:08:815 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:21:08:818 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:21:08:821 INFO require!
+15-08-2019 23:21:08:825 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:21:08:829 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:21:08:831 INFO logging(Загружен из банка)
+15-08-2019 23:21:08:835 INFO require!
+15-08-2019 23:21:08:838 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:21:08:841 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:21:11:739 INFO require!
+15-08-2019 23:21:11:742 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:21:11:746 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:21:11:750 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:21:11:753 INFO require!
+15-08-2019 23:21:11:757 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:21:11:760 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:21:11:763 INFO logging(Загружен из банка)
+15-08-2019 23:21:11:766 INFO require!
+15-08-2019 23:21:11:769 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:21:11:772 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:21:14:765 INFO require!
+15-08-2019 23:21:14:771 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:21:14:775 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:21:14:779 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:21:14:782 INFO require!
+15-08-2019 23:21:14:784 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:21:14:788 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:21:14:790 INFO logging(Загружен из банка)
+15-08-2019 23:21:14:793 INFO require!
+15-08-2019 23:21:14:797 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:21:14:800 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:21:17:745 INFO require!
+15-08-2019 23:21:17:749 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:21:17:752 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:21:17:755 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:21:17:758 INFO require!
+15-08-2019 23:21:17:761 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:21:17:764 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:21:17:767 INFO logging(Загружен из банка)
+15-08-2019 23:21:17:770 INFO require!
+15-08-2019 23:21:17:773 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:21:17:776 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:21:20:742 INFO require!
+15-08-2019 23:21:20:745 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:21:20:750 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:21:20:754 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:21:20:758 INFO require!
+15-08-2019 23:21:20:761 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:21:20:764 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:21:20:768 INFO logging(Загружен из банка)
+15-08-2019 23:21:20:772 INFO require!
+15-08-2019 23:21:20:775 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:21:20:778 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:24:45:748 INFO require!
+15-08-2019 23:24:45:754 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:24:45:757 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:24:45:759 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:24:45:762 INFO require!
+15-08-2019 23:24:45:766 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:24:45:771 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:24:45:774 INFO logging(Загружен из банка)
+15-08-2019 23:24:45:777 INFO require!
+15-08-2019 23:24:45:780 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:24:45:783 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:24:49:024 INFO require!
+15-08-2019 23:24:49:028 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:24:49:032 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:24:49:035 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:24:49:039 INFO require!
+15-08-2019 23:24:49:042 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:24:49:045 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:24:49:048 INFO logging(Загружен из банка)
+15-08-2019 23:24:49:052 INFO require!
+15-08-2019 23:24:49:055 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:24:49:059 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:25:33:428 INFO require!
+15-08-2019 23:25:33:435 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:25:33:438 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:25:33:441 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:25:33:443 INFO require!
+15-08-2019 23:25:33:446 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:25:33:448 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:25:33:451 INFO logging(Загружен из банка)
+15-08-2019 23:25:33:453 INFO require!
+15-08-2019 23:25:33:455 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:25:33:458 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:37:20:283 INFO require!
+15-08-2019 23:37:20:286 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:37:20:289 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:38:57:056 INFO require!
+15-08-2019 23:38:57:058 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:38:57:062 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:39:00:628 INFO require!
+15-08-2019 23:39:00:630 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:39:00:640 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:39:00:642 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:39:00:645 INFO require!
+15-08-2019 23:39:00:648 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:39:00:651 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:39:00:654 INFO logging(Загружен из банка)
+15-08-2019 23:39:00:657 INFO require!
+15-08-2019 23:39:00:660 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:39:00:662 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:39:04:045 INFO require!
+15-08-2019 23:39:04:052 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:39:04:059 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:39:04:062 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:39:04:065 INFO require!
+15-08-2019 23:39:04:068 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:39:04:070 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:39:04:073 INFO logging(Загружен из банка)
+15-08-2019 23:39:04:075 INFO require!
+15-08-2019 23:39:04:078 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:39:04:081 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:39:55:683 INFO require!
+15-08-2019 23:39:55:692 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:39:55:696 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:39:55:700 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:39:55:704 INFO require!
+15-08-2019 23:39:55:707 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:39:55:711 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:39:55:714 INFO logging(Загружен из банка)
+15-08-2019 23:39:55:719 INFO require!
+15-08-2019 23:39:55:722 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:39:55:727 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:39:58:974 INFO require!
+15-08-2019 23:39:58:976 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:39:58:981 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:39:58:984 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:39:58:988 INFO require!
+15-08-2019 23:39:58:991 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:39:58:994 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:39:58:996 INFO logging(Загружен из банка)
+15-08-2019 23:39:58:998 INFO require!
+15-08-2019 23:39:59:000 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:39:59:003 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:40:02:047 INFO require!
+15-08-2019 23:40:02:049 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:40:02:052 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:40:02:055 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:40:02:060 INFO require!
+15-08-2019 23:40:02:063 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:40:02:067 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:40:02:069 INFO logging(Загружен из банка)
+15-08-2019 23:40:02:072 INFO require!
+15-08-2019 23:40:02:074 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:40:02:077 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:40:09:925 INFO require!
+15-08-2019 23:40:09:927 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:40:09:930 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:40:09:932 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:40:09:936 INFO require!
+15-08-2019 23:40:09:938 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:40:09:941 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:40:09:944 INFO logging(Загружен из банка)
+15-08-2019 23:40:09:947 INFO require!
+15-08-2019 23:40:09:949 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:40:09:952 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:41:55:528 INFO require!
+15-08-2019 23:41:55:531 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:41:55:534 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:41:55:536 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:41:55:540 INFO require!
+15-08-2019 23:41:55:543 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:41:55:546 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:41:55:549 INFO logging(Загружен из банка)
+15-08-2019 23:41:55:553 INFO require!
+15-08-2019 23:41:55:558 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:41:55:562 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:41:58:944 INFO require!
+15-08-2019 23:41:58:947 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:41:58:950 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:41:58:952 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:41:58:955 INFO require!
+15-08-2019 23:41:58:959 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:41:58:961 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:41:58:963 INFO logging(Загружен из банка)
+15-08-2019 23:41:58:965 INFO require!
+15-08-2019 23:41:58:967 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:41:58:974 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:42:02:376 INFO require!
+15-08-2019 23:42:02:379 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:42:02:382 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:42:02:385 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:42:02:389 INFO require!
+15-08-2019 23:42:02:391 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:42:02:395 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:42:02:398 INFO logging(Загружен из банка)
+15-08-2019 23:42:02:404 INFO require!
+15-08-2019 23:42:02:408 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:42:02:412 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:46:38:667 INFO require!
+15-08-2019 23:46:38:671 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:46:38:674 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:46:38:677 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:46:38:680 INFO require!
+15-08-2019 23:46:38:683 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:46:38:687 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:46:38:689 INFO logging(Загружен из банка)
+15-08-2019 23:46:38:693 INFO require!
+15-08-2019 23:46:38:696 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:46:38:703 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:49:06:094 INFO require!
+15-08-2019 23:49:06:096 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:49:06:101 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:49:06:104 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:49:06:108 INFO require!
+15-08-2019 23:49:06:111 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:49:06:114 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:49:06:117 INFO logging(Загружен из банка)
+15-08-2019 23:49:06:121 INFO require!
+15-08-2019 23:49:06:123 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:49:06:126 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:49:09:370 INFO require!
+15-08-2019 23:49:09:378 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:49:09:382 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:49:09:385 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:49:09:389 INFO require!
+15-08-2019 23:49:09:392 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:49:09:395 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:49:09:398 INFO logging(Загружен из банка)
+15-08-2019 23:49:09:402 INFO require!
+15-08-2019 23:49:09:405 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:49:09:408 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:49:24:036 INFO require!
+15-08-2019 23:49:24:038 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:49:24:044 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:49:24:050 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:49:24:054 INFO require!
+15-08-2019 23:49:24:057 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:49:24:059 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:49:24:062 INFO logging(Загружен из банка)
+15-08-2019 23:49:24:064 INFO require!
+15-08-2019 23:49:24:067 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:49:24:069 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:51:24:939 INFO require!
+15-08-2019 23:51:25:102 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:51:25:105 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:51:25:107 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:51:25:110 INFO require!
+15-08-2019 23:51:25:112 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:51:25:115 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:51:25:117 INFO logging(Загружен из банка)
+15-08-2019 23:51:25:120 INFO require!
+15-08-2019 23:51:25:122 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:51:25:125 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:51:29:574 INFO require!
+15-08-2019 23:51:29:576 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:51:29:579 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:51:29:585 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:51:29:589 INFO require!
+15-08-2019 23:51:29:592 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:51:29:594 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:51:29:596 INFO logging(Загружен из банка)
+15-08-2019 23:51:29:599 INFO require!
+15-08-2019 23:51:29:603 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:51:29:606 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:51:36:236 INFO require!
+15-08-2019 23:51:36:239 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:51:36:242 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:51:36:245 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:51:36:248 INFO require!
+15-08-2019 23:51:36:251 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:51:36:255 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:51:36:257 INFO logging(Загружен из банка)
+15-08-2019 23:51:36:260 INFO require!
+15-08-2019 23:51:36:263 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:51:36:266 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:52:01:636 INFO require!
+15-08-2019 23:52:01:639 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:52:01:645 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:52:01:648 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:52:01:652 INFO require!
+15-08-2019 23:52:01:654 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:52:01:657 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:52:01:660 INFO logging(Загружен из банка)
+15-08-2019 23:52:01:662 INFO require!
+15-08-2019 23:52:01:664 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:52:01:668 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:52:04:584 INFO require!
+15-08-2019 23:52:04:586 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:52:04:590 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:52:04:594 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:52:04:597 INFO require!
+15-08-2019 23:52:04:599 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:52:04:602 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:52:04:604 INFO logging(Загружен из банка)
+15-08-2019 23:52:04:606 INFO require!
+15-08-2019 23:52:04:608 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:52:04:611 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:52:05:739 INFO require!
+15-08-2019 23:52:05:742 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:52:05:746 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:52:05:749 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:52:05:753 INFO require!
+15-08-2019 23:52:05:756 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:52:05:759 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:52:05:762 INFO logging(Загружен из банка)
+15-08-2019 23:52:05:766 INFO require!
+15-08-2019 23:52:05:769 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:52:05:772 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:52:08:718 INFO require!
+15-08-2019 23:52:08:722 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:52:08:727 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:52:08:733 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:52:08:737 INFO require!
+15-08-2019 23:52:08:740 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:52:08:743 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:52:08:746 INFO logging(Загружен из банка)
+15-08-2019 23:52:08:750 INFO require!
+15-08-2019 23:52:08:753 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:52:08:756 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:52:11:682 INFO require!
+15-08-2019 23:52:11:685 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:52:11:687 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:52:11:695 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:52:11:699 INFO require!
+15-08-2019 23:52:11:702 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:52:11:704 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:52:11:707 INFO logging(Загружен из банка)
+15-08-2019 23:52:11:710 INFO require!
+15-08-2019 23:52:11:713 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:52:11:716 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:52:14:896 INFO require!
+15-08-2019 23:52:14:899 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:52:14:903 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:52:14:907 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:52:14:916 INFO require!
+15-08-2019 23:52:14:921 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:52:14:924 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:52:14:927 INFO logging(Загружен из банка)
+15-08-2019 23:52:14:930 INFO require!
+15-08-2019 23:52:14:933 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:52:14:935 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)
+15-08-2019 23:52:23:008 INFO require!
+15-08-2019 23:52:23:010 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua
+15-08-2019 23:52:23:012 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\sys\RequireForNode.lua(Invalid argument)
+15-08-2019 23:52:23:014 INFO sys.RequireForNode(Загружен из банка)
+15-08-2019 23:52:23:017 INFO require!
+15-08-2019 23:52:23:019 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua
+15-08-2019 23:52:23:021 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\logging.lua(Invalid argument)
+15-08-2019 23:52:23:025 INFO logging(Загружен из банка)
+15-08-2019 23:52:23:028 INFO require!
+15-08-2019 23:52:23:030 INFO scriptFilePath = \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua
+15-08-2019 23:52:23:034 INFO \\baducho\Node.js Projects\ProtoCWF\Lua\Test\modules\main.lua(Загружен из файла)

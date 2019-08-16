@@ -1,0 +1,2 @@
+npm install bluebird
+pause
