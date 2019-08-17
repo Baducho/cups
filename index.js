@@ -6,12 +6,16 @@ var fs = require('fs');
 
 const colors = require('colors/safe');
 
+
 // sfgdfgsdfgsdg78ue7
 global.appRoot = path.resolve(__dirname);
 global.config = require(path.join(appRoot, 'config'));
 global.memoryInitialized = false;
 
 global.CroServer = require(path.join(appRoot, '../external-libs/CroServer.node'));
+
+var $ = require(path.join(appRoot, 'core/async-wrap'));
+
 
 if(CroServer.InitializeMemory != undefined && !memoryInitialized)
 {
@@ -42,6 +46,23 @@ var modulesRouter = require(path.join(appRoot, 'core/modules'));
 
 app.use(express.static(path.join(__dirname, 'www')));
 
+app.use('/', $(async (req, res, next) =>
+{
+	if(global.connection == undefined)
+	{
+		try
+		{
+			global.connection = req.session.connection;
+			let connection = CroServer.DeSerializeConnection(global.connection);
+			global.bank = await CroServer.AttachBank(connection, 'Cups');
+		}
+		catch(error)
+		{
+			console.error(colors.red(error));
+		}
+	}
+	next();
+}));
 app.use('/', modulesRouter);
 
 

@@ -12,6 +12,7 @@ router.all('/content', $(controller.content)); // Baducho
 router.all('/dialog', $(controller.dialog)); // Baducho
 router.all('/refresh', $(controller.refresh)); // Baducho
 router.all('/dropdown', $(controller.dropdown)); // Baducho
+router.all('/cups-space', $(controller.cupsSpace)); // Baducho
 
 
 module.exports = router;

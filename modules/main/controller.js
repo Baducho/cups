@@ -201,3 +201,35 @@ exports.dropdown = async function(req, res, next)
 		res.redirect('/');
 	}
 };
+exports.cupsSpace = async function(req, res, next)
+{
+	if(req.session.connection != undefined)
+	{
+		let users = await model.GetUsers();
+		let usersCups = await model.GetUsersCups(users);
+
+		let answerData = {};
+		answerData.setGlobalParameters = { testPar: '111'};
+		//answerData.updateSelectors = '#main'
+		//answerData.toast = JSON.stringify(scriptResult, null, "\t")
+		answerData.dataTable = [];
+		
+		let templateData = {};
+		templateData.template = 'render';
+		//templateData.targetSelector = '#dialog-content';
+		templateData.data = {};
+		templateData.data.parameter1 = 'dropdown';
+		templateData.data.users = users;
+		templateData.data.usersCups = usersCups;
+	
+		answerData.dataTable.push(templateData);
+
+
+		res.json(answerData);
+	}
+	else
+	{
+		console.log('Нет сохраненной сессии. Переходим на траницу логина');
+		res.redirect('/');
+	}
+};
